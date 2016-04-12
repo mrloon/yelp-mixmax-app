@@ -1,10 +1,9 @@
 # yelp-mixmax-app
 Quick, raw yelp slash command enhancement for Mixmax
 
-```
-Install using `npm install`
-Run using `npm start`
-```
+
+1. Install using `npm install`
+2. Run using `npm start`
 
 Runs similar to the demo mixmax slash command
 
