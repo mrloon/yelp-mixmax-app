@@ -5,10 +5,10 @@ var Yelp = require('yelp');
 
 // Utilizes my own yelp API keys and a node library to do most of the grunt work related to searching yelp
 var yelp = new Yelp({
-  consumer_key: 'lnLdwkd0XsCAw4o7qcRSPw',
-  consumer_secret: 'tHXe-yD7E-hwstkHF4lpQRrLU7E',
-  token: 'pXMfs3oG90-Z8UQlx08waofqiGe41pnH',
-  token_secret: 'YSSFa5WpSWDQc0WHQXQaErn7R8s',
+  consumer_key: ,
+  consumer_secret: ,
+  token: ,
+  token_secret: ,
 });
 
 // The Type Ahead API.
